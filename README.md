@@ -2,7 +2,7 @@
   - create a trello board having 2 sections: what went well and what can be improved
   - each section will have a add button
   - on click of add button, open up a comment box where user can add comment and submit
-  - sumitted comments should go to the respective section
+  - submitted comments should go to the respective section
   - have an option to delete, edit a comment
 
 ### Zomato
